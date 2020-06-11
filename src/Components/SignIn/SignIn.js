@@ -29,7 +29,6 @@ class SignIn extends React.Component {
       .then((response) => response.json())
       .then((user) => {
         if (user.id) {
-          console.log(user);
           this.props.loadUser(user);
           this.props.onRouteChange("home");
         }
@@ -39,8 +38,8 @@ class SignIn extends React.Component {
   render() {
     const { onRouteChange } = this.props;
     return (
-      <article className="br3 mv4 w-100 w-50-m w-25-l mw7 center shadow-5">
-        <main className="pa4 black-80">
+      <article className="br3 mv4 w-100 w-50-m w-25-l mw7 center shadow-1">
+        <main className="pa3   black-80">
           <div className="measure">
             <fieldset id="sign_up" className="ba b--transparent mt3">
               <legend className="f2 fw6 ph0 mh0">Sign In</legend>
@@ -80,7 +79,7 @@ class SignIn extends React.Component {
             <div className="lh-copy mv3">
               <p
                 onClick={() => onRouteChange("register")}
-                className="f6 link dim black db"
+                className="f5 b link dim black db"
               >
                 Register
               </p>

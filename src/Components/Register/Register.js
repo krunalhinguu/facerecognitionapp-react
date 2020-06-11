@@ -42,9 +42,9 @@ class Register extends React.Component {
   };
 
   render() {
-    const { onRouteChange } = this.props;
+    /* const { onRouteChange } = this.props; */
     return (
-      <article className="br3 mv4 w-100 w-50-m w-25-l mw7 center shadow-5">
+      <article className="br3 mv4 w-100 w-50-m w-25-l mw7 center shadow-1">
         <main className="pa4 black-80">
           <div className="measure">
             <fieldset id="sign_up" className="ba b--transparent mt3">
