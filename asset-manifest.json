@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/facerecognitionapp-react/static/css/main.819b28fe.chunk.css",
-    "main.js": "/facerecognitionapp-react/static/js/main.11edb01c.chunk.js",
-    "main.js.map": "/facerecognitionapp-react/static/js/main.11edb01c.chunk.js.map",
+    "main.js": "/facerecognitionapp-react/static/js/main.79916a06.chunk.js",
+    "main.js.map": "/facerecognitionapp-react/static/js/main.79916a06.chunk.js.map",
     "runtime-main.js": "/facerecognitionapp-react/static/js/runtime-main.fd0825f6.js",
     "runtime-main.js.map": "/facerecognitionapp-react/static/js/runtime-main.fd0825f6.js.map",
     "static/css/2.3c03f26f.chunk.css": "/facerecognitionapp-react/static/css/2.3c03f26f.chunk.css",
     "static/js/2.f728047c.chunk.js": "/facerecognitionapp-react/static/js/2.f728047c.chunk.js",
     "static/js/2.f728047c.chunk.js.map": "/facerecognitionapp-react/static/js/2.f728047c.chunk.js.map",
     "index.html": "/facerecognitionapp-react/index.html",
-    "precache-manifest.5df4571403e9a8074f56c1df9bd4b7a9.js": "/facerecognitionapp-react/precache-manifest.5df4571403e9a8074f56c1df9bd4b7a9.js",
+    "precache-manifest.b7ba325f3d821844e989f8420c428d1e.js": "/facerecognitionapp-react/precache-manifest.b7ba325f3d821844e989f8420c428d1e.js",
     "service-worker.js": "/facerecognitionapp-react/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/facerecognitionapp-react/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.819b28fe.chunk.css.map": "/facerecognitionapp-react/static/css/main.819b28fe.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.f728047c.chunk.js",
     "static/css/main.819b28fe.chunk.css",
-    "static/js/main.11edb01c.chunk.js"
+    "static/js/main.79916a06.chunk.js"
   ]
 }
